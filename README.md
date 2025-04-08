@@ -16,27 +16,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalkl&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bishalkl&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/bishal koirala" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/bishal koirala" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/bishalkoirala__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://github.com/bishalcode869" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" width="30" /></a>
-</p>
-
----
-
 <p align="center">✨ Let's build something amazing together ✨</p>
